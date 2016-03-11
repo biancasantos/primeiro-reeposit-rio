@@ -1,5 +1,13 @@
-1. espada: *espada do dragão"
-2. elmo: *elmo do capiroto*
-3. bag: 
-       - 50 gold
-       - medicinal herb 
+1. espada: *Espada forjada nas fornalhas da Montanha da Perdição, em Mordor"
+2. elmo: *Pan Gu Helms*
+3.
+3. bag:
+       - 1kk GOLD
+       - medicinal herb
+       - hp pills
+       - Magic Necklace
+       - Grimório
+       - Livro de Receitas
+       - Capa cheia de Bolsos
+       - Pizza Food
+       - Blood Ruby
