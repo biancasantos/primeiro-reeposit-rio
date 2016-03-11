@@ -11,3 +11,10 @@
        - Capa cheia de Bolsos
        - Pizza Food
        - Blood Ruby
+       - Blue Dragon with White Eyes
+       - Magic Weapon, needs 15 Mana to attack
+       - Chocolate para viagem.
+       - Vinho envelhecido nas tumbas de Númenor
+       - Espelho de Prata
+       - Pó de Café
+       - Bolsa para sapato, evitar assaltos pelas estradas do Rei
